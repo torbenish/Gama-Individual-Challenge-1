@@ -1,4 +1,4 @@
-<h1 align="center">Gama Info</h1>
+<h1 align="center">Game Info</h1>
 
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
@@ -13,7 +13,7 @@
 
 ## **Objetivo**
 
-Desafio 1 do Gama XP #38 do curso de Full Dev Stack da [Gama Academy](https://www.gama.academy/ "Site da Gama Academy"). Esse projeto tem como objetivo a criação de um site de jogos, onde o usuário poderá clicar em qualquer video game ou jogo, e receberá todos os seus detalhes.
+Desafio 1 do Gama XP #38 do curso de Full Dev Stack da [Gama Academy](https://www.gama.academy/ "Site da Gama Academy"). Esse projeto tem como objetivo a criação de um site de jogos, onde o usuário poderá clicar em qualquer video game ou jogo do catálogo, e receberá todos os seus detalhes.
 
 Os produtos serão divididos em categorias e será possível localizar itens similares através de um filtro.
 
@@ -78,14 +78,18 @@ Por fim, toda página terá um menu em que será possível ser redirecionado par
     * Menu 
     * Botões
 
+### Prazo total: 14/07/21 - 23/07/21
+
 ## Melhorias futuras
-- [ ] Cadastro de usuários.
-- [ ] Sistema de login e recuperação de senha.
+- [ ] Cadastro e autenticação do usuário.
+- [ ] Recuperação de senha do usuário.
 - [ ] Avaliação do usuário
 - [ ] Carrinho de compras.
 - [ ] Realização de pedidos.
 - [ ] Cálculo de frete do produto.
 - [ ] Campo para buscar produto por nome.
+- [ ] Tempo de resposta do website.
+- [ ] Capacidade de usuários ao mesmo tempo.
 
 
 
