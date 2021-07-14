@@ -3,6 +3,7 @@
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
  <a href="#roadmap">Roadmap</a> • 
+ <a href="#melhorias-futuras">Melhorias Futuras</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#autor">Autor</a>
 </p>
@@ -11,7 +12,7 @@
 	🚧  Site em construção...  🚧 
 </h4>
 
-## **Objetivo**
+## Objetivo
 
 Desafio 1 do Gama XP #38 do curso de Dev Full Stack da [Gama Academy](https://www.gama.academy/ "Site da Gama Academy"). Esse projeto tem como objetivo a criação de um site de jogos, onde o usuário poderá clicar em qualquer vídeo game ou jogo do catálogo e receberá todos os seus detalhes.
 
@@ -19,7 +20,7 @@ Os produtos serão divididos em categorias e será possível localizar itens sim
 
 Por fim, toda página terá um menu em que será possível ser redirecionado para a página principal ou outras páginas como "Produtos" ou "Sobre nós".
 
-## **Roadmap** 
+## Roadmap 
 
 ### Sprint 1º - Estrutura [Início/Entrega: 14/07/21 - 16/07/21]
 
@@ -80,7 +81,8 @@ Por fim, toda página terá um menu em que será possível ser redirecionado par
 
 ### Prazo total: 14/07/21 - 23/07/21
 
-## Melhorias futuras
+## Melhorias Futuras
+
 - [ ] Cadastro e autenticação do usuário.
 - [ ] Recuperação de senha do usuário.
 - [ ] Avaliação do usuário
