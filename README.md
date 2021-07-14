@@ -13,7 +13,7 @@
 
 ## **Objetivo**
 
-Desafio 1 do Gama XP #38 do curso de Full Dev Stack da [Gama Academy](https://www.gama.academy/ "Site da Gama Academy"). Esse projeto tem como objetivo a criação de um site de jogos, onde o usuário poderá clicar em qualquer video game ou jogo do catálogo, e receberá todos os seus detalhes.
+Desafio 1 do Gama XP #38 do curso de Dev Full Stack da [Gama Academy](https://www.gama.academy/ "Site da Gama Academy"). Esse projeto tem como objetivo a criação de um site de jogos, onde o usuário poderá clicar em qualquer vídeo game ou jogo do catálogo e receberá todos os seus detalhes.
 
 Os produtos serão divididos em categorias e será possível localizar itens similares através de um filtro.
 
@@ -30,7 +30,7 @@ Por fim, toda página terá um menu em que será possível ser redirecionado par
     * Descrição do produto
 * Definir as páginas do website :
     * Página inicial
-    * Páginas dos Produto 
+    * Páginas dos produto 
     * Página das informações institucionais
 
 ### Sprint 2º - Criação [Início/Entrega : 16/07/21 - 20/07/21]
@@ -89,7 +89,7 @@ Por fim, toda página terá um menu em que será possível ser redirecionado par
 - [ ] Cálculo de frete do produto.
 - [ ] Campo para buscar produto por nome.
 - [ ] Tempo de resposta do website.
-- [ ] Capacidade de usuários ao mesmo tempo.
+- [ ] Capacidade de usuários online ao mesmo tempo.
 
 
 
