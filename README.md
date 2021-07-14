@@ -23,37 +23,37 @@ Por fim, toda página terá um menu em que será possível ser redirecionado par
 
 ### Sprint 1º - Estrutura [Início/Entrega: 14/07/21 - 16/07/21]
 
-* Definir os produtos :
+* Definir os produtos:
     * Nome
     * Imagem
     * Valor definido
     * Descrição do produto
-* Definir as páginas do website :
+* Definir as páginas do website:
     * Página inicial
     * Páginas dos produto 
     * Página das informações institucionais
 
-### Sprint 2º - Criação [Início/Entrega : 16/07/21 - 20/07/21]
+### Sprint 2º - Criação [Início/Entrega: 16/07/21 - 20/07/21]
 
-* Criação da página inicial :
+* Criação da página inicial:
     * Header
     * Banner
     * Visualização dos produtos em destaque [Nome, Imagem, Valor Definido]
     * Visualização do catálogo de produtos [Nome, Imagem, Valor Definido]
     * Footer
-* Criação da página do produto :
+* Criação da página do produto:
     * Detalhes do produto
     * Imagens
     * Opções de cores e modelos
     * Condições de pagamento
-* Criação da página de informações institucionais :
+* Criação da página de informações institucionais:
     * Quem Somos Nós
     * Endereço do e-mail
     * Endereço de telefone
   
-### Sprint 3º - Desenvolvimento [Início/Entrega : 20/07 - 22/07]
+### Sprint 3º - Desenvolvimento [Início/Entrega: 20/07 - 22/07]
 
-* Criação do menu superior com os botões de interação :
+* Criação do menu superior com os botões de interação:
     * Home
     * Catálogo 
     * Sobre nós
@@ -61,17 +61,17 @@ Por fim, toda página terá um menu em que será possível ser redirecionado par
     * Microsoft
     * Nintendo
     * Sony
-* Interação com os produtos da página inicial :
+* Interação com os produtos da página inicial:
     * Ao clicar no produto, o usuário é redirecionado para a página do produto escolhido
 
 
-### Sprint 4º - Formatação e Estilização [Início/Entrega : 22/07 - 23/07]
+### Sprint 4º - Formatação e Estilização [Início/Entrega: 22/07 - 23/07]
 
-* Formatação :
+* Formatação:
     * Frases
     * Textos
     * Ortografia
-* Estilização :
+* Estilização:
     * Tipografia
     * Banner
     * Background
