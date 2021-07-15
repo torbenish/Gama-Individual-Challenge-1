@@ -26,7 +26,7 @@ Por fim, toda página terá um menu em que será possível ser redirecionado par
 
 * Definir os produtos:
     * Nome
-    * Imagem
+    * Imagem principal
     * Valor definido
     * Descrição do produto
 * Definir as páginas do website:
