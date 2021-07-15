@@ -57,7 +57,7 @@ Por fim, toda página terá um menu em que será possível ser redirecionado par
     * Catálogo
     * Sobre nós
   
-### Sprint 3º - Desenvolvimento [Início/Entrega: 19/07 - 21/07]
+### Sprint 3º - Desenvolvimento [Início/Entrega: 19/07/21 - 21/07/21]
 
 * Criação da aba de filtros no catálogo de produtos que destaca os produtos da companhia escolhida:
     * Nintendo
