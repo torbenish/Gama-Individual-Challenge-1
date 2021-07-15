@@ -16,6 +16,8 @@
 
 Desafio 1 do Gama XP #38 do curso de Dev Full Stack da [Gama Academy](https://www.gama.academy/ "Site da Gama Academy"). Esse projeto tem como objetivo a criação de um site de jogos clássicos, onde o usuário terá disponível um catálogo de vídeo games e jogos lançados no passado.
 
+O usuário conseguirá informações detalhadas do vídeo game / jogo escolhido como ano de lançamento, preço, modelos, hardware e outras especificações.
+
 Cada produto será classificado em empresa e será possível localizar itens similares através de um filtro.
 
 Por fim, toda página terá um menu em que será possível ser redirecionado para a página principal e outras páginas como "Produtos" ou "Sobre nós".
@@ -65,7 +67,7 @@ Por fim, toda página terá um menu em que será possível ser redirecionado par
     * Ao clicar no botão Home ou Sobre nós, o usuário é redirecionado para a página do botão escolhido
     * Ao clicar no botão Catálogo, o usuário é redirecionado para o catálogo de produtos da página inicial
 * Interação com os produtos da página inicial:
-    * Ao clicar no produto, o usuário é redirecionado para a página do produto escolhido
+    * Ao clicar no produto da página inicial, o usuário é redirecionado para a página do produto escolhido
 
 
 ### Sprint 4º - Formatação e Estilização [Início/Entrega: 21/07 - 23/07]
