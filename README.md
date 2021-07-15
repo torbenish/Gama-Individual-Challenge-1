@@ -79,7 +79,7 @@ Por fim, toda página terá um menu em que será possível ser redirecionado par
     * Menu 
     * Botões
 
-### Prazo total: 14/07/21 - 23/07/21
+### **Prazo total: 14/07/21 - 23/07/21**
 
 ## Melhorias Futuras
 
