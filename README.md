@@ -16,7 +16,7 @@
 
 Desafio 1 do Gama XP #38 do curso de Dev Full Stack da [Gama Academy](https://www.gama.academy/ "Site da Gama Academy"). Esse projeto tem como objetivo a criação de um site de jogos, onde o usuário poderá clicar em qualquer vídeo game ou jogo do catálogo e receberá todos os seus detalhes.
 
-Os produtos serão divididos em categorias e será possível localizar itens similares através de um filtro.
+Casa produto será classificado em uma categoria e será possível localizar itens similares através de um filtro.
 
 Por fim, toda página terá um menu em que será possível ser redirecionado para a página principal ou outras páginas como "Produtos" ou "Sobre nós".
 
@@ -31,16 +31,16 @@ Por fim, toda página terá um menu em que será possível ser redirecionado par
     * Descrição do produto
 * Definir as páginas do website:
     * Página inicial
-    * Páginas dos produto 
+    * Páginas dos produtos 
     * Página das informações institucionais
 
-### Sprint 2º - Criação [Início/Entrega: 16/07/21 - 20/07/21]
+### Sprint 2º - Criação [Início/Entrega: 16/07/21 - 19/07/21]
 
 * Criação da página inicial:
     * Header
     * Banner
-    * Visualização dos produtos em destaque [Nome, Imagem, Valor Definido]
-    * Visualização do catálogo de produtos [Nome, Imagem, Valor Definido]
+    * Container com a visualização dos produtos em destaque [Nome, Imagem, Valor Definido]
+    * Container com a visualização do catálogo de produtos [Nome, Imagem, Valor Definido]
     * Footer
 * Criação da página do produto:
     * Detalhes do produto
@@ -52,7 +52,7 @@ Por fim, toda página terá um menu em que será possível ser redirecionado par
     * Endereço do e-mail
     * Endereço de telefone
   
-### Sprint 3º - Desenvolvimento [Início/Entrega: 20/07 - 22/07]
+### Sprint 3º - Desenvolvimento [Início/Entrega: 19/07 - 21/07]
 
 * Criação do menu superior com os botões de interação:
     * Home
@@ -66,18 +66,19 @@ Por fim, toda página terá um menu em que será possível ser redirecionado par
     * Ao clicar no produto, o usuário é redirecionado para a página do produto escolhido
 
 
-### Sprint 4º - Formatação e Estilização [Início/Entrega: 22/07 - 23/07]
+### Sprint 4º - Formatação e Estilização [Início/Entrega: 21/07 - 23/07]
 
 * Formatação:
-    * Frases
-    * Textos
+    * Texto
     * Ortografia
 * Estilização:
     * Tipografia
     * Banner
     * Background
+    * Containers
     * Menu 
     * Botões
+    * Resolução [Desktop, Tablet, Celular]
 
 ### **Prazo total: 14/07/21 - 23/07/21**
 
