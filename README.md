@@ -1,4 +1,4 @@
-<h1 align="center">Game Info</h1>
+<h1 align="center">Game Retro Info</h1>
 
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
@@ -14,11 +14,11 @@
 
 ## Objetivo
 
-Desafio 1 do Gama XP #38 do curso de Dev Full Stack da [Gama Academy](https://www.gama.academy/ "Site da Gama Academy"). Esse projeto tem como objetivo a criação de um site de jogos, onde o usuário poderá clicar em qualquer vídeo game ou jogo do catálogo e receberá todos os seus detalhes.
+Desafio 1 do Gama XP #38 do curso de Dev Full Stack da [Gama Academy](https://www.gama.academy/ "Site da Gama Academy"). Esse projeto tem como objetivo a criação de um site de jogos clássicos, onde o usuário terá disponível um catálogo de vídeo games e jogos lançados no passado.
 
-Casa produto será classificado em uma categoria e será possível localizar itens similares através de um filtro.
+Cada produto será classificado em empresa e será possível localizar itens similares através de um filtro.
 
-Por fim, toda página terá um menu em que será possível ser redirecionado para a página principal ou outras páginas como "Produtos" ou "Sobre nós".
+Por fim, toda página terá um menu em que será possível ser redirecionado para a página principal e outras páginas como "Produtos" ou "Sobre nós".
 
 ## Roadmap 
 
@@ -42,26 +42,28 @@ Por fim, toda página terá um menu em que será possível ser redirecionado par
     * Container com a visualização dos produtos em destaque [Nome, Imagem, Valor Definido]
     * Container com a visualização do catálogo de produtos [Nome, Imagem, Valor Definido]
     * Footer
-* Criação da página do produto:
+* Criação das páginas dos produtos:
     * Detalhes do produto
     * Imagens
     * Opções de cores e modelos
     * Condições de pagamento
 * Criação da página de informações institucionais:
     * Quem Somos Nós
-    * Endereço do e-mail
-    * Endereço de telefone
+    * Informações de contato [E-mail, telefone]
+* Criação do menu superior em todas as páginas com os botões:
+    * Home
+    * Catálogo
+    * Sobre nós
   
 ### Sprint 3º - Desenvolvimento [Início/Entrega: 19/07 - 21/07]
 
-* Criação do menu superior com os botões de interação:
-    * Home
-    * Catálogo 
-    * Sobre nós
-* Criação de uma aba de interação na página principal que filtra o produto em categorias:
-    * Microsoft
+* Criação da aba de filtros no catálogo de produtos que destaca os produtos da companhia escolhida:
     * Nintendo
+    * Sega
     * Sony
+* Interação do menu superior com os botões Home, Catálogo e Sobre nós:
+    * Ao clicar no botão Home ou Sobre nós, o usuário é redirecionado para a página do botão escolhido
+    * Ao clicar no botão Catálogo, o usuário é redirecionado para o catálogo de produtos da página inicial
 * Interação com os produtos da página inicial:
     * Ao clicar no produto, o usuário é redirecionado para a página do produto escolhido
 
@@ -93,6 +95,7 @@ Por fim, toda página terá um menu em que será possível ser redirecionado par
 - [ ] Campo para buscar produto por nome.
 - [ ] Tempo de resposta do website.
 - [ ] Capacidade de usuários online ao mesmo tempo.
+- [ ] Páginas para cada categoria
 
 
 
