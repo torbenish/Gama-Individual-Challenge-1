@@ -70,7 +70,7 @@ Por fim, toda página terá um menu em que será possível ser redirecionado par
     * Ao clicar no produto da página inicial, o usuário é redirecionado para a página do produto escolhido
 
 
-### Sprint 4º - Formatação e Estilização [Início/Entrega: 21/07 - 23/07]
+### Sprint 4º - Formatação e Estilização [Início/Entrega: 21/07/21 - 23/07/21]
 
 * Formatação:
     * Texto
