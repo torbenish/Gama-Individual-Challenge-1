@@ -24,7 +24,7 @@ Por fim, toda página terá um menu em que será possível ser redirecionado par
 
 ## Roadmap 
 
-### Sprint 1º - Estrutura [Início/Entrega: 14/07/21 - 16/07/21]
+### Sprint 1º - Estruturação [Início/Entrega: 14/07/21 - 16/07/21]
 
 * Definir os produtos:
     * Nome
@@ -85,6 +85,13 @@ Por fim, toda página terá um menu em que será possível ser redirecionado par
     * Resolução [Desktop, Tablet, Celular]
 
 ### **Prazo total: 14/07/21 - 23/07/21**
+
+| Sprint                     | Pontos   |     Status     |
+| :------------------------- | :------: | :------------: |
+| • Estruturação             |    2     |    &#10004;    |
+| • Criação                  |    6     |                |
+| • Desenvolvimento          |    4     |                |
+| • Formatação e Estilização |    3     |                |
 
 ## Melhorias Futuras
 
