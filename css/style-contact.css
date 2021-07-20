@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap");
+
+* {
+  /* background-color: #181818; */
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+/* BANNER PRINCIPAL */
+
+.banner {
+  height: 220px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url(/assets/images/backgame.jpg);
+  background-position: center;
+}
+
+/* MENU */
+
+.navbar {
+  border-top: 5px solid #f5f5f5;
+}
+
+/* CONTATO */
+
+.container-contact {
+    background-image: linear-gradient(to right top, #141e30, #191724, #171019, #10080d, #000000);
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 20%;
+}

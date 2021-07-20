@@ -89,7 +89,7 @@ Por fim, toda página terá um menu em que será possível ser redirecionado par
 | Sprint                     | Pontos   |     Status     |
 | :------------------------- | :------: | :------------: |
 | • Estruturação             |    2     |    &#10004;    |
-| • Criação                  |    6     |                |
+| • Criação                  |    6     |    &#10004;    |
 | • Desenvolvimento          |    4     |                |
 | • Formatação e Estilização |    3     |                |
 

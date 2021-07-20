@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap');
+
+* {
+    /* background-color: #181818; */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+/* body {
+    height: 2000px;
+} */
+
+/* BANNER PRINCIPAL */
+
+.banner {
+    height: 220px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: url(/assets/images/backgame.jpg);
+    background-position: center;
+}
+
+/* MENU */
+
+.navbar {
+    border-top: 5px solid #f5f5f5;
+}
+
+/* PRODUTOS EM DESTAQUE */
+
+.features {
+    padding: 50px; 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-image: linear-gradient(to right top, #141e30, #191724, #171019, #10080d, #000000);
+}
+
+.carousel {
+    width:640px;
+    height:360px;
+
+  }
+
+
+/* BANNER DE INFORMAÇÕES */
+
+.banner-info-wrapper {
+    border: 2px solid #FF4656;
+    background-image: linear-gradient(to right top, #141e30, #191724, #171019, #10080d, #000000);
+    background-position: cover;
+}
+
+
+.open_desk {
+    height: 80px;
+    color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+}
+
+.item-banner {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+.icon-banner {
+    max-width: 62px;
+    max-height: 40px;
+    margin-right: 10px;
+}
+
+.text span {
+    display: flex;
+    text-align: center;
+    font-style: italic;
+}
+
+/* CATÁLOGO DE PRODUTOS */
+
+
+.catalog-product {
+    background-color: #181818;
+}
+.catalog-product h3{
+    color: red;
+    text-align: center;
+    padding-bottom: 14px;
+}
+
+.card-body {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color:black;
+    background-color: #FFFBF0;
+    
+}
+
+.card-body h5, p {
+    background-color: #FFFBF0;
+}
+
+.price {
+    background-color: #FFFBF0;
+    color: orange;
+}
+
