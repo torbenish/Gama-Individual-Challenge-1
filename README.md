@@ -1,4 +1,4 @@
-<h1 align="center">Game Retro Info</h1>
+<h1 align="center">Retro Game Info</h1>
 
 <p align="center">
  <a href="#objetivo">Objetivo</a> •
@@ -90,8 +90,8 @@ Por fim, toda página terá um menu em que será possível ser redirecionado par
 | :------------------------- | :------: | :------------: |
 | • Estruturação             |    2     |    &#10004;    |
 | • Criação                  |    6     |    &#10004;    |
-| • Desenvolvimento          |    4     |                |
-| • Formatação e Estilização |    3     |                |
+| • Desenvolvimento          |    4     |    &#10004;    |
+| • Formatação e Estilização |    3     |    &#10004;    |
 
 ## Melhorias Futuras
 
@@ -104,7 +104,6 @@ Por fim, toda página terá um menu em que será possível ser redirecionado par
 - [ ] Campo para buscar produto por nome.
 - [ ] Tempo de resposta do website.
 - [ ] Capacidade de usuários online ao mesmo tempo.
-- [ ] Páginas para cada categoria
 
 
 
