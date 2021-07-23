@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap");
 
 * {
   /* background-color: #181818; */
@@ -16,21 +17,44 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image: url(/assets/images/backgame.jpg);
+  background-image: url(../assets/images/banner-main.png);
   background-position: center;
 }
 
 /* MENU */
 
 .navbar {
-  border-top: 5px solid #f5f5f5;
+  border-top: 4px solid #181818;
+  background-image: linear-gradient(
+    to top,
+    #870000,
+    #6a0d03,
+    #4e1105,
+    #331005,
+    #190a05
+  );
 }
 
 /* CONTATO */
 
 .container-contact {
-    background-image: linear-gradient(to right top, #141e30, #191724, #171019, #10080d, #000000);
-    color: white;
-    padding-top: 5px;
-    padding-bottom: 20%;
+  background-image: linear-gradient(
+    to right top,
+    #141e30,
+    #191724,
+    #171019,
+    #10080d,
+    #000000
+  );
+  color: #fffbf0;
+  padding-top: 5px;
+  padding-bottom: 20%;
+}
+
+.container-contact h1 {
+  font-family: "Press Start 2P", cursive;
+}
+
+.form-label {
+  color: #fffbf0;
 }

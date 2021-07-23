@@ -1,0 +1,177 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+/* BANNER PRINCIPAL */
+
+.banner {
+  height: 220px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-image: url(../assets/images/banner-main.png);
+  background-position: center;
+}
+
+/* MENU */
+
+.navbar {
+  border-top: 4px solid #181818;
+  background-image: linear-gradient(
+    to top,
+    #870000,
+    #6a0d03,
+    #4e1105,
+    #331005,
+    #190a05
+  );
+}
+
+/* CAROUSEL */
+
+.carousel {
+  float: left;
+  width: 40%;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  height: 100px;
+  width: 100px;
+  outline: black;
+  background-size: 100%, 100%;
+  border-radius: 50%;
+  border: 1px solid black;
+  background-image: none;
+}
+
+.carousel-control-next-icon:after {
+  content: ">";
+  font-size: 50px;
+}
+
+.carousel-control-prev-icon:after {
+  content: "<";
+  font-size: 50px;
+}
+/* PRODUTO DESCRIÇÃO */
+
+.section h1 {
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+  font-size: 50px;
+  font-style: italic;
+  color: #fffbf0;
+  font-weight: bolder;
+  font-family: "Press Start 2P", cursive;
+}
+
+.container-company {
+  width: 100%;
+  min-height: 50vh;
+  background-image: linear-gradient(
+    to right top,
+    #141e30,
+    #191724,
+    #171019,
+    #10080d,
+    #000000
+  );
+  padding-bottom: 30%;
+  border-bottom: 1px solid #b0c4de;
+}
+
+.container-about {
+  width: 80%;
+  display: block;
+  margin: auto;
+  padding-top: 50px;
+}
+
+.content-section {
+  float: right;
+  width: 40%;
+  color: #fffbf0;
+}
+
+.content h3 {
+  color: #fa804c;
+}
+
+.content-section .title {
+  text-transform: capitalize;
+}
+
+.content-section h2 {
+  font-weight: bold;
+}
+
+@media screen and (max-width: 1280px) {
+  .container-about {
+    width: 80%;
+    display: block;
+    margin: auto;
+    padding-top: 50x;
+  }
+  .content-section {
+    float: none;
+    width: 100%;
+    display: block;
+    margin: auto;
+  }
+
+  .content-section .title {
+    text-align: center;
+    font-size: 19px;
+  }
+
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    height: 50px;
+    width: 50px;
+    outline: black;
+    background-size: 100%, 100%;
+    border-radius: 50%;
+    border: 1px solid black;
+    background-image: none;
+  }
+
+  .carousel-control-next-icon:after {
+    content: ">";
+    font-size: 20px;
+  }
+
+  .carousel-control-prev-icon:after {
+    content: "<";
+    font-size: 20px;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  
+
+.container-company h1{
+  font-size: 30px;
+}
+  .carousel-inner {
+    display: block;
+    width: 160px;
+    padding-top: 5px;
+  }
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    display: none;
+  }
+  .carousel-indicators {
+    display: none;
+  }
+}

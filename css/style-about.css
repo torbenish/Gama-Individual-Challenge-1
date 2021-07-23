@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,200;1,300;1,400;1,500;1,600;1,700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
 * {
-  /* background-color: #181818; */
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -16,20 +16,31 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-image: url(/assets/images/backgame.jpg);
+  background-image: url(../assets/images/banner-main.png);
   background-position: center;
 }
 
 /* MENU */
 
 .navbar {
-  border-top: 5px solid #f5f5f5;
+  border-top: 4px solid #181818;
+  background-image: linear-gradient(to top, #870000, #6a0d03, #4e1105, #331005, #190a05);
 }
 
-.section {
+/* EMPRESA */
+
+.container-enterprise {
   width: 100%;
   min-height: 50vh;
-  background-image: linear-gradient(to right top, #141e30, #191724, #171019, #10080d, #000000);
+  color: #FFFBF0;
+  background-image: linear-gradient(
+    to right top,
+    #141e30,
+    #191724,
+    #171019,
+    #10080d,
+    #000000
+  );
   padding-bottom: 40%;
 }
 
@@ -45,9 +56,13 @@
   width: 55%;
 }
 
+.content-section h1{
+  font-family: 'Press Start 2P', cursive;
+}
+
 .image-section {
   float: right;
-  width: 40%;
+  width: 45%;
 }
 
 .image-section img {
@@ -60,13 +75,13 @@
   font-size: 28px;
 }
 
-.content-section .contet h3 {
+.content-section .content h3 {
   margin-top: 20px;
-  color: #5d5d5d;
+  color: #FFFBF0;
   font-size: 21px;
 }
 
-.content-section .contet p {
+.content-section .content p {
   margin-top: 10px;
   font-family: sans-serif;
   font-size: 18px;
@@ -105,7 +120,7 @@
   color: #3d3d3d;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1280px) {
   .container-about {
     width: 80%;
     display: block;
@@ -125,11 +140,11 @@
     margin: auto;
   }
 
-  .image-section img{
-      width: 100%;
-      height: auto;
-      display: block;
-      margin: auto;
+  .image-section img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
   }
 
   .content-section .title {
