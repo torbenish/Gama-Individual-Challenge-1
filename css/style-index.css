@@ -138,6 +138,11 @@
   color: #fffbf0;
   background-color: #1f2326;
   border-bottom: 1px solid #b0c4de;
+  margin-bottom: 1
+}
+
+.card-body a:hover {
+  background-color: red;
 }
 
 .price {
