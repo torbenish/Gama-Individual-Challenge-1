@@ -9,7 +9,7 @@
 </p>
 
 <h4 align="center"> 
-	🚧  Site em construção....  🚧 
+	🚧  Em construção....  🚧 
 </h4>
 
 ## Objetivo
